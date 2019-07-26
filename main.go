@@ -7,9 +7,9 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/hashicorp/hcl"
-	"github.com/hashicorp/hcl/hcl/printer"
-	jsonParser "github.com/hashicorp/hcl/json/parser"
+	"github.com/movableink/hcl"
+	"github.com/movableink/hcl/hcl/printer"
+	jsonParser "github.com/movableink/hcl/json/parser"
 )
 
 // VERSION is what is returned by the `-v` flag
